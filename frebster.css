@@ -1,0 +1,20 @@
+
+.dashed{border-style: dashed;}
+        .container {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+        video {
+            width: 500px;
+            height: 400px;
+        }
+        .text {
+            margin-left: 20px; /* Adjust margin as needed */
+        }
+		
+.white {
+    color: white;
+}
+
+.ambatublow{border-style: dashed; border: 4px; background-color: black; color: white;}

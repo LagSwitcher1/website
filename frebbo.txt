@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Stuff That I (Lendric) Did In SY. 2023-2024 </title>
+</head>
+<body>
+<img src="portfoliofront.png" border="2" align="center">
+</body>
+</html>
